@@ -1,0 +1,64 @@
+.menuItem
+{
+  margin: 20px;
+  background-color: lightgrey;
+}
+
+
+.foodText
+{
+  /* border: 1px solid red; */
+  color: black;
+  padding: 1em;
+  margin: 0em;
+}
+
+h3
+{
+  padding-top: 0.5em;
+}
+
+
+#header-nav
+{
+  border-radius: 0;
+}
+
+#nav-list {
+  text-align: center;
+}
+
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: lightgrey;
+}
+
+
+#nav-list > li
+{
+   border: solid #e7e7e7; 
+   border-width: 0px 0px 1px 0px; 
+}
+
+#nav-list > li#last-list-entry
+{
+   border: solid #e7e7e7; 
+   border-width: 0px 0px 0px 0px; 
+}
+
+#nav-list
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+#collapsable-nav
+{
+  margin-top: 50px;
+}
+
+
